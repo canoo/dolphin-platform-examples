@@ -13,7 +13,6 @@
 
     <artifactId>simple-security-client-javascript</artifactId>
 
-    <packaging>war</packaging>
 
     <build>
         <plugins>
